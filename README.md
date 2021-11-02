@@ -1,0 +1,2 @@
+# .github
+Project health files
